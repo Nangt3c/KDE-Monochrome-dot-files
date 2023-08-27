@@ -1,0 +1,5 @@
+[General]
+theme=Monochrome
+
+[Applications]
+Monochrome=kitty
