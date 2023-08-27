@@ -1,5 +1,6 @@
 # KDE-Monochrome-dot-files
 My dot files for Debian 12 with KDE
+Links at the bottom of the README.MD
 ![Untitled](https://github.com/Nangt3c/KDE-Monochrome-dot-files/assets/99434490/f497663b-cf30-4034-b874-4c775314000a)
 
 ### Apps used on this environment
