@@ -13,7 +13,7 @@ Links at the bottom of the README.MD
 - Firefox
 ### Customization
 - Wallpaper by [@sementara on Twitter](https://twitter.com/sementara__)
-- Cursor: [Future-dark](https://store.kde.org/p/1457884)
+- Cursor: [GoogleDot Black](https://store.kde.org/p/1638261)
 - Global Theme: [Monochrome-kde](https://gitlab.com/pwyde/monochrome-kde)
 - App style: Kvantum
 - Icons: [Stormtrooper](https://store.kde.org/p/1988507)
@@ -21,4 +21,5 @@ Links at the bottom of the README.MD
 ### Plasma Widgets
 - Nord Launcher
 - Clipboard
-- Media Player
+- System Monitor
+- Fokus
